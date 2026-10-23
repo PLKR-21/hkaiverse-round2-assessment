@@ -91,18 +91,6 @@ This gives a baseline of **172 credits**, including completed, current, and plan
 
 The redesign materially affects **43 distinct credits (43/172 = 25.0%)** while preserving the total at 172. See `task-2-curriculum/data/affected-credit-map.csv`. Count each course only once and retain the no-net-credit-change default. This is a proposal, not an approved curriculum revision.
 
-## Before submission — do not skip
-
-1. Confirm that transcribed course details exactly match the candidate-confirmed official curriculum copy. Semester VII codes remain blank where not supplied.
-2. Reopen the three dated employer postings, check their requirements, and retain the access date. Do not present the sample as representative of all employers.
-3. Personally review all five AI-assisted exercise files. Run relevant local code/query tests and add exact source/chapter checks where required.
-4. Conduct permitted workflow fieldwork if feasible. If access is unavailable or declined, keep the workflow hypothetical and state that no observations were collected.
-5. Record actual test results; do not change “Not tested” to “Pass” without running the tests.
-6. Ask for voluntary faculty/graduate feedback if feasible; otherwise report it as unavailable.
-7. Review `affected-credit-map.csv`: 43 distinct affected credits / 172 baseline credits = 25.0%; count each course once and keep the no-net-credit-change default.
-8. Complete `evidence/contribution.md` truthfully, reflecting the actual work performed and AI assistance used.
-9. Review the app and run both validation commands.
-10. Create a final commit and named GitHub release. Add the actual release URL and full commit URL below only after they exist.
 
 ## Release record
 
