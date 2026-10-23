@@ -1,7 +1,6 @@
 # CampusFlow — Workflow Improvement & Curriculum Audit
 
 **HKAIVERSE Round 2 assessment project | Final-draft submission package**  
-**Deadline supplied by candidate:** 24 October 2026, 11:59 PM IST
 
 CampusFlow contains two connected proposals:
 
