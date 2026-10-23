@@ -1,0 +1,6 @@
+﻿case_id,scenario,input,expected_status_or_action,authorization_check,recovery,actual_result,pass_fail,notes
+T1,Normal,All required fields valid; request is in scope,Submitted -> Validated -> Assigned -> Resolved/Closed,Only authorized role assigns work,Close only after resolution confirmation,Pending execution,Not tested,Synthetic case; record actual output after prototype/manual walk-through.
+T2,Missing information,Required asset/location field absent,Needs information; do not assign prematurely,No approval while incomplete,Requester supplies missing field then revalidate,Pending execution,Not tested,Synthetic case.
+T3,Duplicate,New request resembles an existing open request for same asset and issue,Flag duplicate candidate; human triage decides,No automatic deletion or denial,Link to existing request or document why distinct,Pending execution,Not tested,Synthetic case.
+T4,Unauthorized request,Requester attempts restricted approval or closure,Deny restricted action and log reason,Permission check must be server-side in a real implementation,Route to authorized role; keep state unchanged,Pending execution,Not tested,Synthetic case.
+T5,Failed step,Assignment or notification step fails,Record failure and preserve request/history,No bypass of approval boundary,Retry safely or use approved manual fallback,Pending execution,Not tested,Synthetic case.

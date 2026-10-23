@@ -1,0 +1,13 @@
+﻿course_code,course_title,semester,credits,recommendation_ids,material_change
+CS102,Data Structures,II,4,C01,"Assess implementation, edge cases, and complexity explanation."
+CS203,Design and Analysis of Algorithms,III,3,C01,"Assess algorithm selection, complexity reasoning, and edge cases."
+CS206,Database Management Systems,IV,4,C03,"Add/strengthen SQL joins, transactions, query plans, and data-quality checks where not already assessed."
+CS304,Software Engineering,V,3,C02; C04; C10,"Use a graded delivery workflow with requirements, version control, review, CI checks, and safe AI evaluation practices."
+CS302,Operating Systems,V,4,C05; C12,"Apply concurrency, failure handling, and systems reasoning without removing core theory."
+CS306,Computer Networks,VI,4,C05; C12,"Assess HTTP/API behavior, timeouts, retries, and network failure recovery alongside foundations."
+CS307,Cloud Computing,VI,4,C06; C09,"Assess deployment, logs, secret hygiene, monitoring, rollback, and an embedded data pipeline lab."
+DS304,Machine Learning,V,4,C07; C10,"Assess leakage-safe splits, baselines, error analysis, reproducibility, privacy, and human review."
+DS201,Artificial Intelligence,VI,3,C07; C10,"Assess model/data limitations, safe AI evaluation, and human review within existing course work."
+Deep Learning,Deep Learning,VII,4,C07; C10,"Assess baselines, evaluation sets, error analysis, and responsible model documentation."
+,Human Computer Vision,VII,3,C08,"Assess context variation, usability, failure cases, and human override; title preserved as supplied."
+DS307,Big Data Systems,VI,3,C09,"Embed a compact ingestion, validation, transformation, lineage, and idempotency workflow lab."

@@ -1,0 +1,4 @@
+﻿scenario,requests_per_month,current_minutes_per_request,proposed_minutes_per_request,review_minutes_per_month,support_minutes_per_month,gross_minutes_saved,net_minutes_saved,classification
+Low illustrative volume,20,12,7,60,30,100,10,Illustrative assumptions only; not observed campus data
+Base illustrative volume,40,12,7,60,30,200,110,Illustrative assumptions only; not observed campus data
+High illustrative volume,60,12,7,60,30,300,210,Illustrative assumptions only; not observed campus data
