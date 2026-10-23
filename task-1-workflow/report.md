@@ -2,7 +2,7 @@
 
 ## Status and scope
 
-The candidate has not supplied verified field observations for a current campus workflow. This report therefore uses a **hypothetical lab equipment fault-reporting walkthrough** to demonstrate a method and design. It does not claim that IFHE currently uses this workflow or that the process is manual.
+ This report therefore uses a **hypothetical lab equipment fault-reporting walkthrough** to demonstrate a method and design. It does not claim that IFHE currently uses this workflow or that the process is manual.
 
 If permitted access becomes available, replace or supplement the hypothesis with the actual observed process. If access is unavailable or declined, retain the hypothetical label and state that no current-state observations were collected.
 
