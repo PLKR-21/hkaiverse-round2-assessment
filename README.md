@@ -106,11 +106,10 @@ The redesign materially affects **43 distinct credits (43/172 = 25.0%)** while p
 
 ## Release record
 
-- Release tag: `v1.0.0` (create after review)
-- Release URL: `ADD AFTER CREATING RELEASE`
-- Full commit URL: `ADD AFTER FINAL COMMIT`
-- Submitted repository URL: `ADD AFTER PORTAL SUBMISSION`
-- Receipt/time: `ADD AFTER SUBMISSION`
+- Release tag: `v1.0.0` 
+- Release URL: `https://github.com/PLKR-21/hkaiverse-round2-assessment/releases/tag/v1.0.0`
+- Full commit URL: `https://github.com/PLKR-21/hkaiverse-round2-assessment/commits/main/`
+- Submitted repository URL: `https://github.com/PLKR-21/hkaiverse-round2-assessment`
 
 ## Sources
 

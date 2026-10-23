@@ -33,5 +33,4 @@ Before submission, add specific details about the files reviewed or edited, sour
 - **Job descriptions:** The employer sample is limited. Posting dates, role requirements and source details must be rechecked before they are described as verified.
 - **AI-assisted exercises:** The five exercise records require candidate review and the verification steps described in those files.
 - **Faculty/graduate feedback:** No feedback has been provided in the current project information.
-- **Testing:** The actual results of the validation script, unit tests and application checks must be recorded. Do not report tests as passed without running them.
-- **Release and submission:** The final commit, GitHub release and portal submission must be confirmed before their completion is claimed.
+
