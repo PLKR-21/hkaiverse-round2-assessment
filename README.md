@@ -85,7 +85,7 @@ For this assignment, the candidate confirms the supplied curriculum is the offic
 ## Release record
 
 - Release tag: `v1.0.0` (create after review)
-- Release URL: `ADD AFTER CREATING RELEASE`
+- Release URL: `https://github.com/PLKR-21/hkaiverse-round2-assessment/releases/tag/v1.0.0`
 - Full commit URL: `ADD AFTER FINAL COMMIT`
 - Submitted repository URL: `ADD AFTER PORTAL SUBMISSION`
 - Receipt/time: `ADD AFTER SUBMISSION`
